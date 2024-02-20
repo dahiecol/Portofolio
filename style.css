@@ -131,12 +131,13 @@ footer .social-links a:hover {
 
 
 .content-container  {
-  padding: 160px 20px;
+  padding: 70px 20px;
 }
 
 .content h1 {
-  font-size: 100px;
-  line-height: 80px;
+  font-size: 90px;
+  line-height: 100px;
+  text-align: center;
 }
 
 .content h2 {
